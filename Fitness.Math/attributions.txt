@@ -1,0 +1,14 @@
+Splash Screen
+
+<a href="https://www.flaticon.com/free-icons/nutrition" title="nutrition icons">Nutrition icons created by FBJan - Flaticon</a>
+<a href="https://www.flaticon.com/free-icons/health" title="health icons">Health icons created by Freepik - Flaticon</a>
+<a href="https://www.flaticon.com/free-icons/strong" title="strong icons">Strong icons created by Freepik - Flaticon</a>
+<a href="https://www.flaticon.com/free-icons/protein-shake" title="protein shake icons">Protein shake icons created by Freepik - Flaticon</a>
+<a href="https://www.flaticon.com/free-icons/plant-based" title="plant-based icons">Plant-based icons created by Smashicons - Flaticon</a>
+<a href="https://www.flaticon.com/free-icons/nutrition" title="nutrition icons">Nutrition icons created by paulalee - Flaticon</a>
+<a href="https://www.flaticon.com/free-icons/waist" title="waist icons">Waist icons created by Freepik - Flaticon</a>
+<a href="https://www.flaticon.com/free-icons/calories" title="calories icons">Calories icons created by juicy_fish - Flaticon</a>
+<a href="https://www.freepik.com/icon/weight_6286291#fromView=search&page=2&position=9&uuid=9cf941c0-51b8-4aa0-908a-3521f8bd9b21">Icon by Freepik</a>
+<a href="https://www.freepik.com/icon/liquid_4220232#fromView=search&page=3&position=0&uuid=05e75963-6007-4907-abca-df6a3276d5bf">Icon by Freepik</a>
+<a href="https://www.freepik.com/icon/fruit_4060478#fromView=search&page=9&position=36&uuid=0bc1d10c-ebbc-43ab-89d5-730792bf726f">Icon by Aranagraphics</a>
+
